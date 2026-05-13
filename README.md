@@ -111,6 +111,11 @@ An interactive Tableau dashboard was created to visualize:
 - Bar charts
 - Healthcare trend analysis
 
+
+![Healthcare Dashboard](tableau/Healthcare Billing & Patient Trends Dashboard.png)
+
+
+
 ---
 
 # Key Insights
